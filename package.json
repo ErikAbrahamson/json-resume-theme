@@ -1,8 +1,8 @@
 {
-  "name": "jsonresume-theme-flat",
-  "version": "0.3.7",
-  "description": "A theme for JSON Resume",
-  "author": "Mattias Erming",
+  "name": "json-resume-material-flat",
+  "version": "0.0.5",
+  "description": "A modified flat theme catered to Material design",
+  "author": "Erik Abrahamson",
   "repository": {
     "type": "git",
     "url": "http://github.com/erikabrahamson/json-resume-theme"
